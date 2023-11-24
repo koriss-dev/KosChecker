@@ -1,2 +1,2 @@
 # KosChecker
-simple discord token checker app
+written with love in C#
