@@ -1,0 +1,14 @@
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\bin\Debug\KosChecker.exe.config
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\bin\Debug\KosChecker.exe
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\bin\Debug\KosChecker.pdb
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\obj\Debug\KosChecker.csproj.AssemblyReference.cache
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\obj\Debug\KosChecker.Form1.resources
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\obj\Debug\KosChecker.Properties.Resources.resources
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\obj\Debug\KosChecker.csproj.GenerateResource.cache
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\obj\Debug\KosChecker.csproj.CoreCompileInputs.cache
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\obj\Debug\KosChecker.exe
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\obj\Debug\KosChecker.pdb
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\bin\Debug\KosChecker.exe.manifest
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\bin\Debug\KosChecker.application
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\obj\Debug\KosChecker.exe.manifest
+C:\Users\snusoed\Desktop\c# projects\KosChecker\KosChecker\obj\Debug\KosChecker.application

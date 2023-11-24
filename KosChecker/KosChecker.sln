@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KosChecker", "KosChecker\KosChecker.csproj", "{08F1599D-4D55-47E3-86AB-6B7873B7BA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F1599D-4D55-47E3-86AB-6B7873B7BA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F1599D-4D55-47E3-86AB-6B7873B7BA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F1599D-4D55-47E3-86AB-6B7873B7BA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F1599D-4D55-47E3-86AB-6B7873B7BA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7DE8C25-741A-44CF-BAEB-53C23B563CE5}
+	EndGlobalSection
+EndGlobal
